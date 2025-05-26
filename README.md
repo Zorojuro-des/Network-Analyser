@@ -16,8 +16,8 @@ A Python-based tool designed to analyze and visualize network traffic, aiding in
 
 ## 🛠️ Prerequisites
 
-1. **Npmap**:
-2. **Scapy**
-3. **PyQT**
-4. **Matplotlib**
-5. **Pandas**
+1. **Npcap**: Provides the backend driver to run on Windows.
+2. **Scapy**: Used to capture network packets in real time, parse packet header and payloads and identify the protocols.
+3. **PyQT**: Used for building the Graphical User Interface(GUI) of the application.
+4. **Matplotlib**: Used to build the graphs in the GUI.
+5. **Pandas**: Used to store packet data in tables which helps to filter the data and export as csv/xlsx
