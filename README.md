@@ -14,10 +14,10 @@ A Python-based tool designed to analyze and visualize network traffic, aiding in
 
 ---
 
-## 🛠️ Installation
+## 🛠️ Prerequisites
 
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/Zorojuro-des/Network-Analyser.git
-   cd Network-Analyser
+1. **Npmap**:
+2. **Scapy**
+3. **PyQT**
+4. **Matplotlib**
+5. **Pandas**
